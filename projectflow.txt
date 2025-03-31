@@ -1,2 +1,4 @@
 1.create git repo and clone it in local.
 2.create my_code.py and add code to it 
+3.commit to github
+4.initialize dvc
