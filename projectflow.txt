@@ -2,3 +2,5 @@
 2.create my_code.py and add code to it 
 3.commit to github
 4.initialize dvc
+5. add remote origin for dvc 
+6.dvc add data/
